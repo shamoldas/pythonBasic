@@ -1,0 +1,10 @@
+
+f=open('data.txt','w')
+f.write('hello\n')
+text=f.read()
+s=input('enter a string.\n')
+a=len(s)
+print('string:',s)
+print('length:',a)
+f.write(print('upper:',s.upper()))
+f.close()

@@ -1,0 +1,15 @@
+s=[1,2,3,4,5]
+st=input('enter_a_string:\n')
+a=len(s)
+print('list:',s)
+print('string:',st)
+print('length:',a)
+s.reverse()
+print('reverse:',s)
+x=list(reversed(s)
+print('reversed:',x)
+list(reversed(st))
+print('string:',st)
+st.reverse()
+print('reverse_string:',st)
+

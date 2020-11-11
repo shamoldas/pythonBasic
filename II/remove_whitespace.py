@@ -1,0 +1,8 @@
+s=input('enter a string.\n')
+a=len(s)
+print('DISPLAY...\n')
+f=s.rstrip(s)
+print('string:',s)
+print('length:',a)
+f=s.rstrip(s)
+print('remove:',f)

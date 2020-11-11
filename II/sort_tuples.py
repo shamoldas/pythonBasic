@@ -1,0 +1,9 @@
+s=(1,11,2,3)+(4,7,5)
+t=('swapon','suzan','kamol','sachin','sazal')
+print('name:',t)
+tmp=list(t)
+tmp.sort
+print('tuples_list:',s)
+print('sort:',tmp)
+sorted(tmp)
+print('sorted:',tmp)
