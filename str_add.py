@@ -1,0 +1,7 @@
+print("enter name\n")
+a=input("enter first name.\n")
+b=input("2nd name\n")
+c=input("add string .\nname of the list.\n")
+print("\nDISPLAY....\n")
+print(a+b,c+b)
+print(len(a))
